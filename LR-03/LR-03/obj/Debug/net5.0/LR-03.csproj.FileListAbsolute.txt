@@ -1,0 +1,16 @@
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\LR-03.exe
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\LR-03.deps.json
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\LR-03.runtimeconfig.json
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\LR-03.runtimeconfig.dev.json
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\LR-03.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\ref\LR-03.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\bin\Debug\net5.0\LR-03.pdb
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.csproj.AssemblyReference.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.AssemblyInfoInputs.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.AssemblyInfo.cs
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.csproj.CoreCompileInputs.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\ref\LR-03.dll
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.pdb
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\LR-03\LR-03\obj\Debug\net5.0\LR-03.genruntimeconfig.cache
